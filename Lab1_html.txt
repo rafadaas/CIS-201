@@ -1,0 +1,29 @@
+<html>
+<head> 
+<title> Lab Session 01  </title>
+</head>
+<body>
+<h1>HTML 01 Basics Lab</h1>
+<p>Student name:Rafa Daas</p>
+<p>Student id:202212604</p>
+<h2>Questions and Answers</h2>
+<p>Q01. What does HTML mean?<lp>
+<p>HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes.<lp> 
+<p>Q02. what is the difference between HTML and XHTML?</p>
+HTML and XHTML are two of the most popular markup languages used for developing web pages and applications. HTML is the standard markup language for creating web pages, while XHTML is a stricter and more standardized version of HTML. Both HTML and XHTML include a wide range of features, such as support for multimedia, styling, and scripting.</p>
+<p>Q03. Which do you think is better, HTML or XTHML?</p>
+<p>XHTML is easy to use with other data formats, and it creates more neat code as it is stricter than HTML. Therefore, it is more compatible with most browsers, and it maintains a standard of code that can be used for various devices.</p>
+<p>Q04. Why do we need to include charset?</p>
+<p> To avoid cross site scripting vulnerabilities</p>
+<p>Q05. What is the correct syntax for an HTML tag that has a content?</p>
+<p>Q06. What is the correct syntax for an HTML tag that has no content?
+<p>Q07. an HTML tag can have attributes, what is the syntax for an attribute?
+<p>Q08. give an example of attribute?
+<h3>Lab rules</h3>
+<p>Please solve the above questions and follow the rules below</p>
+<p>01. You may use the slides</p>
+<p>02. You are not allowed to get outside help.</p>
+<p>03. You must submit by the end of the lecture time</p>
+<p>04. Submission time is: 25/01/2023 at: 9:50 am.</p>
+</body>
+</html>
