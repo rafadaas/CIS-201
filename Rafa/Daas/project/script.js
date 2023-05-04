@@ -1,1 +1,0 @@
-alert('SAVED TO COOKIES!!');
